@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NoelDu.
+- 👀 I’m interested in Business Analysis / Supply Chain Logistics.
+- 🌱 I’m currently learning Combinatorial Optimization / Scheduling / ML.
+- 📫 How to reach me:
+  - email: noel.dukl@foxmail.com
