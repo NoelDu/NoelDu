@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NoelDu.
 - 👀 I’m interested in Business Analysis / Supply Chain Logistics.
-- 🌱 I’m currently learning ML and NLP
+- 🌱 I’m currently learning ML
 - I have worked on projects related to scheduling which developed an APS systems for businesses.
 - 📫 How to reach me:
   - email: noel.dukl@foxmail.com
+  - email: noelduamoy@gmail.com
